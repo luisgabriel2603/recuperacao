@@ -1,0 +1,42 @@
+.ep-card{
+    height: 400px;
+    border: 1px solid #a0a0a0;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+    width: 400px;
+
+    border-spacing: 10px;
+    overflow: hidden;
+    
+    color: black;
+    text-decoration: none;
+    
+}
+
+
+
+.ep-card p{
+    margin: 0;
+    padding-top: 10px;
+    font: bold italic 22px 'Bebas Neue', 'Roboto', sans-serif; 
+
+}
+.line{
+    
+    padding-bottom: 30px; 
+    
+    background-color: gray;
+}
+.line p{
+    margin: 0;
+    padding: 5px;
+    font:  30px 'Bebas Neue', 'Roboto', sans-serif; 
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.respostas{
+    color: white;
+}

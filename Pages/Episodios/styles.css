@@ -1,0 +1,26 @@
+.form-choice{
+    background-color: rgb(42, 194, 194);
+    font: 28px  'Bebas Neue', 'Roboto', sans-serif;  
+    
+} 
+.form-choice form{
+    padding: 25px;
+}
+
+label{
+    padding-right: 20px;
+    padding-left: 5px;
+    cursor: pointer;
+    
+}
+input{
+    cursor: pointer;
+}
+
+
+.search-container form button:hover{
+    cursor: pointer;
+    background-color: #efefef;
+
+}
+
